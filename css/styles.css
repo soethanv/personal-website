@@ -1,6 +1,11 @@
 .navbar-brand, .nav-link{
-	color:white !important;
+	color:rgb(240, 240, 240) !important;
 	font-weight: 500;
+}
+
+.nav-link:hover{
+	color: white !important;
+	font-weight: 547;
 }
 
 .navbar{
