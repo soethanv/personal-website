@@ -1,7 +1,7 @@
 .navbar-brand, .nav-link{
 	color:rgb(240, 240, 240) !important;
 	font-weight: 500;
-	font-size: 20px;
+	font-size: 18px;
 }
 
 .nav-link:hover{
@@ -22,12 +22,17 @@
 
 .soe {
 	background-color: rgb(240, 240, 240);
-	width: 245px;
-	margin-right: 20px;
-	border-right: groove; 
+	max-width: 245px;
+	margin-right: 10px;
+	float: left;
 }
 
 .content{
 	padding-top: 10px;
 	padding:10px;
+   padding-left: 185px;
+}
+
+.text-muted{
+   color:#3f6d9a!important
 }
